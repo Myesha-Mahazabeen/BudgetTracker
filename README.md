@@ -22,3 +22,6 @@ https://myesha-mahazabeen.github.io/BudgetTracker/
 - **View Total Expenses**: The app calculates and displays the total of all added expenses.
 - **Search Expenses**: The app allows you to search expenses by name.
 
+## Video Walthrough
+![](https://github.com/Myesha-Mahazabeen/BudgetTracker/blob/master/budgettracker.gif)
+

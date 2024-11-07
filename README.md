@@ -23,5 +23,5 @@ https://myesha-mahazabeen.github.io/BudgetTracker/
 - **Search Expenses**: The app allows you to search expenses by name.
 
 ## Video Walthrough
-![](https://github.com/Myesha-Mahazabeen/BudgetTracker/blob/master/budgettracker.gif)
+![](https://github.com/Myesha-Mahazabeen/BudgetTracker/blob/main/budgettracker.gif)
 
